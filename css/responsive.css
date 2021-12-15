@@ -36,9 +36,6 @@
   .s-hero .text p {
     text-align: center;
   }
-
-  .s-hero .image {
-  }
 }
 
 @media (max-width: 768px) {
